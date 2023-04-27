@@ -1,3 +1,5 @@
+mod interface_segregation_principle;
+
 fn main() {
-    println!("Hello, world!");
+    interface_segregation_principle::run();
 }

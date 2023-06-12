@@ -1,6 +1,7 @@
 mod dependency_inversion_principle;
+mod functional_programming;
 mod interface_segregation_principle;
 
 fn main() {
-    interface_segregation_principle::run();
+    functional_programming::run();
 }
